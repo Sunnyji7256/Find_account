@@ -1,23 +1,53 @@
-# **Holehe OSINT - Email to Registered Accounts**
-👋 Hi there! For any professional inquiries or collaborations, please reach out to me at:
-megadose@protonmail.com
+# ```Social Tracker Tool```
 
-📧 Preferably, use your professional email for correspondence. Let's keep it short and sweet, and all in English!
+# Owenr Information 
+<p align="center">
+  <a href="https://github.com/Sunnyji7256/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Sunny%20Ji&font=Fira%20SemiBold&center=true&width=480&height=45&color=ff0000&vCenter=true&pause=1000&size=40" /></a>
+</p>
 
-![](https://files.catbox.moe/5we2ya.png)
-![PyPI](https://img.shields.io/pypi/v/holehe) ![PyPI - Week](https://img.shields.io/pypi/dw/holehe) ![PyPI - Downloads](https://static.pepy.tech/badge/holehe) ![PyPI - License](https://img.shields.io/pypi/l/holehe)
+<p align="center">
+  <a href="https://github.com/Sunnyji7256/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20app%20and%20BOT%20developer;Experienced%20UI%2FUX%20Designer;2%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things;A.I%20DEVELOPER%20&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+</p>
 
-# [Holehe Online Version](https://osint.industries/)
+Follow On Github         
+<a align="center">
+<a href="https://github.com/Sunnyji7256"><img height="40px" title="Github" src="https://img.shields.io/badge/Sunny-Ji-blue?style=for-the-badge&logo=github"></a>               
+Telegram Channel          
+<a align="center">
+<a href="https://t.me/Noob_to_pro_hack"><img height="40px" title="Telegram" src="https://img.shields.io/badge/Hacking by-Noob hacker-red?style=for-the-badge&logo=telegram"></a>
+Telegram I'd                
+<a align="center">
+<a href="https://t.me/Sunny_ki_duniya"><img height="40px" title="Telegram" src="https://img.shields.io/badge/Sunny-Ji 🇮🇳-pink?style=for-the-badge&logo=telegram"></a>
 
-## **Summary**
+## ABOUT TOOL :
+**Title: "The Ultimate Tool for Tracking Social Media Accounts Linked to an Email Address: Discover Everything in One Place"**
 
-*Efficiently finding registered accounts from emails.*
+**Tool Overview:**
+We have an advanced tool that, upon entering an email address, quickly informs you which social media accounts are linked to that email. This tool helps you track social media presence, which is crucial for personal security and account management.
 
-Holehe checks if an email is attached to an account on sites like twitter, instagram, imgur and more than 120 others.
+**Features:**
+1. **Multi-Platform Search:** The tool searches across Facebook, Twitter, Instagram, LinkedIn, and other popular social media platforms.
+2. **User-Friendly Interface:** A simple and intuitive interface that is easy for any user to navigate.
+3. **Instant Results:** Provides immediate results after entering the email, allowing you to quickly check account status.
 
-+ Retrieves information using the forgotten password function.
-+ **[Does not alert the target email.](https://github.com/megadose/holehe/issues/12)**
-+ Runs on [Python 3](https://www.python.org/downloads/release/python-370/).
+**Use Cases:**
+- **Personal Security:** Track the security of your email and protect against unauthorized access.
+- **Account Management:** Useful for identifying which platforms your email is registered on, helping you manage your accounts.
+- **Digital Footprint Management:** Efficiently manage your online presence and deactivate unnecessary accounts.
+
+**Conclusion:**
+If you want to discover the social media accounts associated with your email address, this tool is an ideal solution. It helps you manage your digital footprint efficiently and enhances your online security.
+
+- **This Tool is Only for Education Purpose.**
+
+
+## AVAILABLE ON :
+
+* Termux
+* python3
+  
 ## 🛠️ Installation
 
 ### With PyPI
@@ -91,29 +121,6 @@ For each module, data is returned in a standard dictionary with the following js
 
 
 Rate limit? Change your IP.
-
-
-## Maltego Transform : [Holehe Maltego](https://github.com/megadose/holehe-maltego)
-
-## Thank you to :
-
-- [navlys](https://twitter.com/navlys_/)
-- [Chris](https://twitter.com/chris_kirsch)
-- [socialscan](https://pypi.org/project/socialscan/)
-- [UhOh365](https://github.com/Raikia/UhOh365)
-- [soxoj](https://github.com/soxoj)
-- [mxrch](https://github.com/mxrch) (and for the logo)
-- [novitae](https://github.com/novitae)
-
-## Donations
-
-For BTC Donations : 1FHDM49QfZX6pJmhjLE5tB2K6CaTLMZpXZ
-
-## 📝 License
-
-[GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.fr.html)
-
-Built for educational purposes only.
 
 ## Modules
 | Name                | Domain                                 | Method            | Frequent Rate Limit |
