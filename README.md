@@ -46,81 +46,24 @@ If you want to discover the social media accounts associated with your email add
 ## AVAILABLE ON :
 
 * Termux
-* python3
   
-## 🛠️ Installation
-
-### With PyPI
-
-```pip3 install holehe```
-
-### With Github
-
+## 🛠️ Installation 
 ```bash
-git clone https://github.com/megadose/holehe.git
-cd holehe/
-python3 setup.py install
+pkg update
 ```
-
-### With Docker
-
 ```bash
-docker build . -t my-holehe-image
-docker run my-holehe-image holehe test@gmail.com
+pkg install python
 ```
-
-## Quick Start
-
-Holehe can be run from the CLI and rapidly embedded within existing python applications.
-### 📚 CLI Example
-
+```bash
+pip3 install holehe
+```
 ```bash
 holehe test@gmail.com
 ```
-### 📈 Python Example
 
-```python
-import trio
-import httpx
-
-from holehe.modules.social_media.snapchat import snapchat
-
-
-async def main():
-    email = "test@gmail.com"
-    out = []
-    client = httpx.AsyncClient()
-
-    await snapchat(email, client, out)
-
-    print(out)
-    await client.aclose()
-
-trio.run(main)
-```
+### Demo
 ![](https://github.com/megadose/gif-demo/raw/master/holehe-demo.gif)
-## Module Output
 
-For each module, data is returned in a standard dictionary with the following json-equivalent format :
-```json
-{
-  "name": "example",
-  "rateLimit": false,
-  "exists": true,
-  "emailrecovery": "ex****e@gmail.com",
-  "phoneNumber": "0*******78",
-  "others": null
-}
-```
-
-- rateLitmit : Lets you know if you've been rate-limited.
-- exists : If an account exists for the email on that service.
-- emailrecovery : Sometimes partially obfuscated recovery emails are returned.
-- phoneNumber : Sometimes partially obfuscated recovery phone numbers are returned.
-- others : Any extra info.
-
-
-Rate limit? Change your IP.
 
 ## Modules
 | Name                | Domain                                 | Method            | Frequent Rate Limit |
