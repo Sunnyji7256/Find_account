@@ -110,3 +110,6 @@ holehe test@gmail.com
 | twitter             | twitter.com                            | register          | ✘               |
 | voxmedia            | voxmedia.com                           | register          | ✘               |
 | wordpress           | wordpress                              | login             | ✘               |
+
+
+### 79 Web changed api.
